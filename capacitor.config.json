@@ -1,0 +1,9 @@
+{
+  "appId": "com.udemy.course.ionic.angular",
+  "appName": "ionic-angular-crash-course",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {},
+  "linuxAndroidStudioPath": "/home/antoxa/.local/share/JetBrains/Toolbox/apps/AndroidStudio/ch-0/191.5977832/bin/studio.sh"
+}
